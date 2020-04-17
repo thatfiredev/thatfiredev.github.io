@@ -3,12 +3,9 @@ title: Open Source
 image: open_source.svg
 ---
 
-I have helped:
-- Converting code samples from Java to Kotlin in [firebase/snippets-android]("https://github.com/firebase/snippets-android")
- and [firebase/quickstart-android]("https://github.com/firebase/quickstart-android").
- (see [commit history](https://github.com/firebase/snippets-android/commits?author=rosariopfernandes))
-- Writing and documenting Kotlin Extension Functions for the
- [Firebase Android SDK libraries](https://github.com/firebase/firebase-android-sdk/).
- (see [commit history](https://github.com/firebase/firebase-android-sdk/commits?author=rosariopfernandes))  
-- Implementing requested features and fixing bugs in [Firebase Extensions](https://github.com/firebase/extensions/). 
- (see [commit history](https://github.com/firebase/extensions/commits?author=rosariopfernandes))
+- Author and maintainer of projects such as: [fireXtensions](https://github.com/rosariopfernandes/fireXtensions) and
+ [firecoil](https://github.com/rosariopfernandes/firecoil).
+- Projects I've contributed to include:
+ [Firebase Android SDK](https://github.com/firebase/firebase-android-sdk),
+ [Firebase Quickstarts for Android](https://github.com/firebase/quickstart-android) and
+ [Firebase Android Snippets](https://github.com/firebase/snippets-android). Find more on [GitHub](https://github.com/rosariopfernandes).

@@ -3,4 +3,6 @@ title: Current Projects
 image: current_projects.svg
 ---
 
-I'm the lead developer of the official <a href="https://kidzkare.co.mz">Kidz Kare</a> Android app.
+Lead developer of the [Kidz Kare](https://kidzkare.co.mz) Android app
+
+Mobile App Developer at [MozDevz](http://mozdevz.org)
