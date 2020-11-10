@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title:              "Rosário P. Fernandes | Portfolio"
-description:        "Android Developer at Kidz kare"
+description:        "Google Developer Expert for Firebase"
 author_name:        "Rosário Pereira Fernandes" # change this to your name
 logo_url:           https://avatars3.githubusercontent.com/u/16766726?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 social_links:       [{
@@ -24,10 +24,6 @@ social_links:       [{
                      {
                        "icon": "fa-medium",
                        "link": "https://medium.com/@rosariopfernandes"
-                     },
-                     {
-                       "icon": "fa-facebook-square",
-                       "link": "https://facebook.com/rosariopfernandes"
                      },
                      {
                        "icon": "fa-twitter-square",
