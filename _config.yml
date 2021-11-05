@@ -15,25 +15,25 @@
 # in the templates via {{ site.myvariable }}.
 title:              "Rosário P. Fernandes | Portfolio"
 description:        "Google Developer Expert for Firebase"
-author_name:        "Rosário Pereira Fernandes" # change this to your name
+author_name:        "Rosário Pereira Fernandes"
 logo_url:           https://avatars3.githubusercontent.com/u/16766726?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 social_links:       [{
                        "icon": "fa-github-square",
-                       "link": "https://github.com/rosariopfernandes",
+                       "link": "https://github.com/thatfiredev",
                      },
                      {
                        "icon": "fa-medium",
-                       "link": "https://medium.com/@rosariopfernandes"
+                       "link": "https://medium.com/@thatfire.dev"
                      },
                      {
                        "icon": "fa-twitter-square",
-                       "link": "https://twitter.com/_rpfernandes"
+                       "link": "https://twitter.com/thatfiredev"
                      }]
-email: rosariofernandes51@gmail.com
+email: talkto@thatfire.dev
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: _rpfernandes
-github_username:  rosariopfernandes
+twitter_username: thatfiredev
+github_username:  thatfiredev
 
 # Site Build
 highlighter:        rouge
@@ -46,7 +46,7 @@ collections:
 
 # Build settings
 markdown: kramdown
-remote_theme: rosariopfernandes/the-plain-portfolio
+remote_theme: thatfiredev/the-plain-portfolio
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
