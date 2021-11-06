@@ -19,14 +19,17 @@ author_name:        "Rosário Pereira Fernandes"
 logo_url:           https://avatars3.githubusercontent.com/u/16766726?v=4&s=100 # Get it from GitHub API: https://api.github.com/users/<username>
 social_links:       [{
                        "icon": "fa-github-square",
+                       "name": "GitHub",
                        "link": "https://github.com/thatfiredev",
                      },
                      {
                        "icon": "fa-medium",
+                       "name": "Medium",
                        "link": "https://medium.com/@thatfire.dev"
                      },
                      {
                        "icon": "fa-twitter-square",
+                       "name": "Twitter",
                        "link": "https://twitter.com/thatfiredev"
                      }]
 email: talkto@thatfire.dev
