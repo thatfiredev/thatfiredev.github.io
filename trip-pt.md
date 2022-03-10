@@ -8,7 +8,7 @@ _Prefere em [Inglês](/trip/)?_
 
 # Perguntas Frequentes sobre a minha viagem
 
-_Última atualização: 09 de Fevereiro, 2022_
+_Última atualização: 11 de Março, 2022_
 
 ## 1. Quando viajas para Londres?
 
@@ -38,3 +38,5 @@ Não. O programa GitHub Star é renoveado a cada ano e não pude renovar para 20
 ## 7. E a faculdade?
 
 Tive a oportunidade de falar com os diretores da faculdade que foram bastante simpáticos e permitiram-me continuar os meus estudos online.
+
+**Actualização (11/03):** Já terminei todas as cadeiras. Agora só me falta o Projeto de Licenciatura que já comecei a fazer.

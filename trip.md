@@ -8,7 +8,7 @@ _Do you prefer [Portuguese](/trip-pt/)?_
 
 # My Trip FAQ
 
-_Last update: Feb 9th, 2022_
+_Last update: March 11th, 2022_
 
 ## 1. When are you travelling to London?
 
@@ -38,3 +38,5 @@ No. The GitHub Star program is renewed every year, and I could not renew it for 
 ## 7. What about your University?
 
 I spoke to the school directors who were very kind to let me finish my classes online.
+
+**Update (11/03)**: I have finished all the subjects. The only thing missing now is the Final Dissertation, which I've already started working on.
